@@ -37,10 +37,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','918188019676']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.packname = 'ZIM BOT INC'
+global.owner = ['6283869803330','6285706735450']
+global.premium = ['6285706735450','6285706735450']
+global.botname = 'XziroID'
+global.packname = 'XziroId'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -55,7 +55,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = 'Xziroid'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
